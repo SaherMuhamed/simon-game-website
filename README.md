@@ -35,5 +35,5 @@ Check out the live demo of the Simon Game Website: [Simon Game Demo](https://sah
 2. Watch the pattern of buttons that light up and listen to their sounds.
 3. Repeat the pattern by clicking the buttons in the same order.
 4. If you make a mistake and are not in strict mode, the pattern will be repeated for you. In strict mode, the game restarts.
-5 As you progress, the patterns become longer and more challenging.
+5. As you progress, the patterns become longer and more challenging.
 6. The game continues until you either win by completing all the levels or make a mistake in strict mode.
